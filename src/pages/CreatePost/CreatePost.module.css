@@ -1,0 +1,16 @@
+.create_post{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.create_post h2{
+    font-size:  2.2em;
+    width: 100%;
+}
+.create_post p{
+    color: #AAA;
+    margin-bottom: 2em;
+}
